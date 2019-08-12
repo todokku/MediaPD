@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "semi": true,
+  "plugin:prettier/recommended",
+  "prettier/flowtype",
+  "prettier/react",
+  "prettier/standard"
+}

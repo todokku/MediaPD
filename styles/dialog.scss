@@ -1,0 +1,26 @@
+.dialog_content {
+    background-color: white;
+    padding: 21px 21px 32px 23px;
+    position: relative;
+}
+
+.dialog_background {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(200, 200, 200, 0.58);
+    z-index: 5001;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+}
+
+.dialog-close {
+    color: #828282;
+    cursor: pointer;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}

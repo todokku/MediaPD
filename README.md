@@ -1,4 +1,4 @@
-# Next.js project with redux & redux-saga - Nicolas Deleglise
+# Next.js project with redux & redux-saga
 
 
  ### Installation	Digital is Next.js and Node.js based digialgoods sharing platform. Allows creating a Progressive Web Apps.
@@ -19,8 +19,6 @@ create .env file in the root folder
 npm install
 npm run start
 ```
-## Screenshot
-![DigitalGoods](static/digitalgoods.png)
 
  ## Contributing
 
